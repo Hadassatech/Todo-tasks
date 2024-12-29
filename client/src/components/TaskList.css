@@ -1,0 +1,18 @@
+/* TaskList.css */
+.task-list {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 20px;
+}
+
+.task-list-display {
+    display: flex;
+    flex-direction: column;
+    gap: 20px; 
+}
